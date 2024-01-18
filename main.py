@@ -1,1 +1,1 @@
-print('i hate niggers ')
+print('i hate niggers \n')
