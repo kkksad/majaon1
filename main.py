@@ -1,1 +1,1 @@
-from turtle import turtles
+print('i hate niggers ')
